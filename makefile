@@ -10,3 +10,6 @@ runn:  #run python script.
 
 crt1:  #Create or open python file.
 	code $(folder1)/$(file3)
+
+glog:#git log in graph
+	git log --all --oneline --graph -6
