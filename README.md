@@ -11,6 +11,9 @@ Practicing Python from the book 'A Practical Introduction to Python Programming'
 ---
 [bhch02](bhch02): For Loops
 
+---
+[bhch02](bhch02): Numbers
+
 
 ## Graphics
 ---
