@@ -12,7 +12,10 @@ Practicing Python from the book 'A Practical Introduction to Python Programming'
 [bhch02](bhch02): For Loops
 
 ---
-[bhch02](bhch02): Numbers
+[bhch03](bhch03): Numbers
+
+---
+[bhch04](bhch04): If statements
 
 
 ## Graphics
