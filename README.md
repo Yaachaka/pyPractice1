@@ -17,6 +17,9 @@ Practicing Python from the book 'A Practical Introduction to Python Programming'
 ---
 [bhch04](bhch04): If statements
 
+---
+[bhch05](bhch05): Miscellaneous Topics 1
+
 
 ## Graphics
 ---
