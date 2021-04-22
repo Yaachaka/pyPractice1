@@ -20,6 +20,9 @@ Practicing Python from the book 'A Practical Introduction to Python Programming'
 ---
 [bhch05](bhch05): Miscellaneous Topics 1
 
+---
+[bhch06](bhch06): Strings
+
 
 ## Graphics
 ---
