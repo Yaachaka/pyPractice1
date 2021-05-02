@@ -23,6 +23,9 @@ Practicing Python from the book 'A Practical Introduction to Python Programming'
 ---
 [bhch06](bhch06): Strings
 
+---
+[bhch07](bhch07): Lists
+
 
 ## Graphics
 ---
