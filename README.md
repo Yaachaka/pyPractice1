@@ -39,6 +39,8 @@ bhch01exmp01.py, bhch01exrc01.py
 ---
 [bhch08](bhch08): More with Lists
 
+---
+[bhch09](bhch09): while loops
 
 ## Graphics
 ---
