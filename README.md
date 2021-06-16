@@ -42,6 +42,10 @@ bhch01exmp01.py, bhch01exrc01.py
 ---
 [bhch09](bhch09): while loops
 
+---
+[bhch10](bhch10): Miscellaneous Topics 2
+
+---
 ## Graphics
 ---
 ---

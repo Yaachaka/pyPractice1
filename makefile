@@ -1,8 +1,8 @@
 #makefile in pyPractice1
 
-folder1:=bhch09#while loops
+folder1:=bhch10#Miscellaneous topcs 2
 file1:=$(folder1)exmp01#example files.
-file2:=$(folder1)exrc19#exercise files.
+file2:=$(folder1)exrc32#exercise files.
 file3:=$(file2).py#Choose between example file and exercise file.
 
 run1:  #run python script.
