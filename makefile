@@ -1,8 +1,8 @@
 #makefile in pyPractice1
 
-folder1:=bhch10#Miscellaneous topcs 2
+folder1:=bhch11#Dictionaries
 file1:=$(folder1)exmp01#example files.
-file2:=$(folder1)exrc32#exercise files.
+file2:=$(folder1)exrc16#exercise files.
 file3:=$(file2).py#Choose between example file and exercise file.
 
 run1:  #run python script.

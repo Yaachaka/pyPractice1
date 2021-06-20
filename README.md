@@ -46,6 +46,9 @@ bhch01exmp01.py, bhch01exrc01.py
 [bhch10](bhch10): Miscellaneous Topics 2
 
 ---
+[bhch11](bhch11): Dictionaries
+
+---
 ## Graphics
 ---
 ---
