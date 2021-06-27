@@ -49,6 +49,9 @@ bhch01exmp01.py, bhch01exrc01.py
 [bhch11](bhch11): Dictionaries
 
 ---
+[bhch12](bhch12): Text Files
+
+---
 ## Graphics
 ---
 ---
