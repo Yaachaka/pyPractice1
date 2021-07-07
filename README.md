@@ -52,6 +52,12 @@ bhch01exmp01.py, bhch01exrc01.py
 [bhch12](bhch12): Text Files
 
 ---
+[bhch13](bhch13): Functions
+
+---
+[bhch14](bhch14): Object-Oriented Programming
+
+---
 ## Graphics
 ---
 ---

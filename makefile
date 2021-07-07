@@ -1,9 +1,9 @@
 #!/bin/bash
 #makefile in pyPractice1
 
-folder1:=bhch13#Functions
+folder1:=bhch14#Object-Oriented Programming
 file1:=$(folder1)exmp01#example files.
-file2:=$(folder1)exrc23#exercise files.
+file2:=$(folder1)exrc11#exercise files.
 file3:=$(file2).py#Choose between example file and exercise file.
 
 run1:  #run python script.
